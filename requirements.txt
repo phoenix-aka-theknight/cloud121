@@ -1,0 +1,5 @@
+flask
+numpy
+tensorflow-cpu
+Pillow
+gunicorn
